@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052988315934",
+    "project_id": "mubin-brew-crew",
+    "storage_bucket": "mubin-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052988315934:android:301c60949fc9039ba8110f",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052988315934-dci185r4kl08jr176ube71m0hfg6qt9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0X5StmveLP6mKOhb04NrdDTh7H1guSHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052988315934-dci185r4kl08jr176ube71m0hfg6qt9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
